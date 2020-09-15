@@ -8,6 +8,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
+        /*
         //Apples and oranges Hacker Rank challenge
 
         AppleAndOranges myAAndO = new AppleAndOranges();
@@ -21,6 +22,13 @@ public class Main {
         oranges = new int[]{5, -6};
 
         myAAndO.countApplesAndOranges(7,11,5,15,apples,oranges);
+        */
+
+        //Java inheritance
+        Bird myBird = new Bird();
+        myBird.walk();
+        myBird.fly();
+        myBird.sing();
 
 
     }
