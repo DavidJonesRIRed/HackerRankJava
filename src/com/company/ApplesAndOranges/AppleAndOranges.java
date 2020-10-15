@@ -1,4 +1,4 @@
-package com.company;
+package com.company.ApplesAndOranges;
 import java.lang.reflect.Array;
 
 import static java.lang.System.out;
