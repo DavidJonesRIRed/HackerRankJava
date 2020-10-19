@@ -4,6 +4,7 @@ package com.company;
 import com.company.Chaos.Chaos;
 import com.company.JInherit1.Bird;
 import com.company.JInherit2.Adder;
+import com.company.JavaIfElse.JavaIfElse;
 
 public class Main {
 
@@ -43,20 +44,18 @@ public class Main {
         // Print the result of 3 calls to Adder's `add(int,int)` method as 3 space-separated integers:
         System.out.print(a.add(10,32) + " " + a.add(10,3) + " " + a.add(10,10) + "\n");*/
 
+        /*
         Chaos myChaos = new Chaos();
         int myLine[] = {2,1,5,3,4};
         myChaos.waitingInLine(myLine);
 
         myLine = new int[]{2,5,1,3,4};
         myChaos.waitingInLine(myLine);
+        */
 
+        //Java if else
+        JavaIfElse myIf = new JavaIfElse();
+        myIf.weirdOrNot(3);
     }
 
-    //
-
-                    //1 2 3 4 5 6
-    // array position 0 1 2 3 4 5
-
-                   // 1 5 3 2 4 6
-    // array position 0 1 2 3 4 5
 }
