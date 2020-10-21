@@ -5,6 +5,7 @@ import com.company.Chaos.Chaos;
 import com.company.JInherit1.Bird;
 import com.company.JInherit2.Adder;
 import com.company.JavaIfElse.JavaIfElse;
+import com.company.JavaLoops1.JavaLoops1;
 
 public class Main {
 
@@ -54,8 +55,15 @@ public class Main {
         */
 
         //Java if else
+        /*
         JavaIfElse myIf = new JavaIfElse();
-        myIf.weirdOrNot(3);
+        myIf.weirdOrNot(18);
+        */
+
+        //Java loops 1
+        JavaLoops1 myLoop = new JavaLoops1();
+        myLoop.timesTable(2);
+
     }
 
 }
