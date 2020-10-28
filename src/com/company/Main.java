@@ -1,11 +1,7 @@
 package com.company;
 //package com.company.*;
 
-import com.company.Chaos.Chaos;
-import com.company.JInherit1.Bird;
-import com.company.JInherit2.Adder;
-import com.company.JavaIfElse.JavaIfElse;
-import com.company.JavaLoops1.JavaLoops1;
+import com.company.Java.JavaLoops1.JavaLoops1;
 
 public class Main {
 
