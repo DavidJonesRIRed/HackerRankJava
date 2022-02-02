@@ -1,7 +1,6 @@
-package com.company.Chaos;
+package com.company.Challenges.Chaos;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Chaos {
 

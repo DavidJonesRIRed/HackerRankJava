@@ -1,7 +1,8 @@
 package com.company;
-//package com.company.*;
 
+import com.company.InterviewPrepardness.JumpingClouds.JumpingClouds;
 import com.company.Java.JavaLoops1.JavaLoops1;
+import com.company.Java.JavaLoops2.JavaLoops2;
 
 public class Main {
 
@@ -57,8 +58,16 @@ public class Main {
         */
 
         //Java loops 1
-        JavaLoops1 myLoop = new JavaLoops1();
-        myLoop.timesTable(2);
+        /*JavaLoops1 myLoop = new JavaLoops1();
+        myLoop.timesTable(2);*/
+
+        //Jumping clouds
+        /*JumpingClouds myClouds = new JumpingClouds();
+        int[] clouds = new int[]{2,5,1,3,4};
+        myClouds*/
+
+        OrganizeContainers myOrgCont = new Organ
+
 
     }
 
