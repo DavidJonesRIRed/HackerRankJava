@@ -1,5 +1,4 @@
-package com.company.ApplesAndOranges;
-import java.lang.reflect.Array;
+package com.company.Challenges.ApplesAndOranges;
 
 import static java.lang.System.out;
 
